@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sap2014
 - 👀 I’m interested in infrastructure automation
 - 🌱 I’m currently learning to develop infrastructure automation projects with Python 
-- 💞️ I’m looking to collaborate on projects for setting up the infrastructure for automating a CI/CD pipeline using jenkins, Git HUb Maven, Docker and Kubernetes...
+- 💞️ I’m looking to collaborate on projects for setting up the infrastructure for automating a CI/CD pipeline using jenkins, Git Hub Maven, Docker and Kubernetes...
 - 📫 You can contact me through my email: pasa25@hotmail.com 
 
 <!---
